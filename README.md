@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @antragupta11
 - 👀 I’m interested in Web Devloping and programming
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning Javascript and Data Structures
 - 💞️ I’m looking to collaborate on other projects(Hackathons)
 - 📫 How to reach me  erantra14311@gmail.com
 
